@@ -1,0 +1,79 @@
+body{
+	background-color:#f1f1f1;
+}
+.navbar{
+	background-color:#0000009c;
+}
+.navbar-brand img
+{
+	height: 40px;
+	/padding-left: 20px;/
+}
+
+.desk-logo{
+	width: 30%;
+    height: 50px;
+   
+}
+.navbar-nav li{
+	padding:2px 35px;
+    text-align:center;
+    letter-spacing: 1px;
+}
+.navbar-nav li a
+{
+	color: #fff !important;
+	font-weight: 600;
+    display:block;
+	/*float: left;
+	text-align: left;*/
+
+}
+
+
+.lab{
+	font-size: 25px;
+    background-color: #00b7e9;
+    padding: 1px 3px 2px 4px;
+    margin-top:8px;
+}
+
+
+
+form{
+	padding:25px;
+}
+.input{
+	border-radius: 15px;
+    width: 338px;
+    height: 25px;
+    margin-top: 8px;
+}
+label{
+	font-weight:600;
+	font-size:20px;
+}
+.btn{
+	background-color:#157be4f7 ;
+	font-weight: 600;
+	color:white;
+	padding:8px 17px;
+	letter-spacing: 1px;
+	font-size:16px;
+
+} 
+.frm1{
+	border: solid grey 2px;
+	background-color:white;
+	width:45%;
+	margin:75px auto;
+	height:470px;
+	border-radius: 2px;
+	margin-left:400px;
+
+}
+.icon1{
+	position: relative;
+    top: 29px;
+}
+
